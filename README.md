@@ -467,3 +467,17 @@ Survey for Vertical Federated Learning, by [MARS](https://marswhu.github.io/inde
 ##### *VFL with Foundation Models*
 
 - [Input Reconstruction Attack against Vertical Federated Large Language Models](https://arxiv.org/pdf/2311.07585) *arXiv 2023*
+
+
+
+Please kindly cite the paper if it helps your research, thanks!
+
+```
+@article{ye2024vertical,
+  title={Vertical Federated Learning for Effectiveness, Security, Applicability: A Survey},
+  author={Ye, Mang and Shen, Wei and Snezhko, Eduard and Kovalev, Vassili and Yuen, Pong C and Du, Bo},
+  journal={arXiv preprint arXiv:2405.17495},
+  year={2024}
+}
+```
+
