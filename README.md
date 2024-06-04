@@ -1,6 +1,6 @@
 # Vertical Federated Learning for Effectiveness, Security, Applicability: A Survey
 > #### [Vertical Federated Learning for Effectiveness, Security, Applicability: A Survey [Paper Link]](https://arxiv.org/abs/2405.17495)
-> Mang Ye, Wei Shen, Eduard Snezhko, Vassili Kovalev, Pong C. Yuen, Bo Du
+> Mang Ye, Wei Shen, Bo Du, Eduard Snezhko, Vassili Kovalev, Pong C. Yuen
 >
 > Wuhan University, National Academy of Sciences of Belarus, Hong Kong Baptist University
 > 
