@@ -479,17 +479,5 @@ Please kindly cite the paper if it helps your research, thanks!
   journal={ACM Computing Surveys},
   year={2025}
 }
-@inproceedings{shen2025label,
-  title={Label-free backdoor attacks in vertical federated learning},
-  author={Shen, Wei and Huang, Wenke and Wan, Guancheng and Ye, Mang},
-  booktitle={The 39th AAAI Conference on Artificial Intelligence},
-  year={2025}
-}
-@article{shen2025limitedvfl,
-  title={Build Yourself Before Collaboration: Vertical Federated Learning with Limited Aligned Samples},
-  author={Shen, Wei and Ye, Mang and Yu, Wei and Yuen, Pong C.},
-  journal={IEEE Transactions on Mobile Computing},
-  year={2025}
-}
 ```
 
